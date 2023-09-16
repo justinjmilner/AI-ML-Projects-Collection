@@ -44,6 +44,12 @@ Welcome to my collection of AI projects inspired by the CS50 AI course. These pr
 - **Objective:** Play an optimal game of Tic-Tac-Toe.
 - **Description:** This AI plays Tic-Tac-Toe with strategic moves, aiming to win or tie every game.
 
+### PageRank AI
+- **Objective:** Simulate the Google PageRank algorithm on a small scale.
+- **Description:** This project is a simplified implementation of the famous PageRank algorithm used by Google to rank web pages. It calculates the relative importance of nodes in a directed graph, providing insights into how information flows through a network.
+
+- **Features:**
+
 ## Usage
 Each project includes its own README with specific instructions on how to run and utilize the AI. Feel free to explore the individual project folders for more details.
 
